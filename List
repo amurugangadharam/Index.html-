@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+
+<title>Working with Lists</title>
+
+</head>
+
+<body>
+
+<h1>Lists in HTML</h1>
+
+
+
+<h2>Ordered List</h2>
+
+<ol>
+
+<li>Item 1</li>
+
+<li>Item 2</li>
+
+<li>Item 3</li>
+
+</ol>
+
+
+
+<h2>Unordered List</h2>
+
+<ul>
+
+<li>Item A</li>
+
+<li>Item B</li>
+
+<li>Item C</li>
+
+</ul>
+
+
+
+<h2>Nested Lists</h2>
+
+<ul>
+
+<li>Parent Item 1
+
+<ul>
+
+<li>Child Item 1</li>
+
+<li>Child Item 2</li>
+
+</ul>
+
+</li>
+
+<li>Parent Item 2
+
+<ul>
+
+<li>Child Item 3</li>
+
+<li>Child Item 4</li>
+
+</ul>
+
+</li>
+
+</ul>
+
+
+
+<h2>Ordered List in an Unordered List</h2>
+
+<ul>
+
+<li>Category 1
+
+<ol>
+
+<li>Sub-item 1</li>
+
+<li>Sub-item 2</li>
+
+</ol>
+
+</li>
+
+<li>Category 2
+
+<ol>
+
+<li>Sub-item 3</li>
+
+<li>Sub-item 4</li>
+
+</ol>
+
+</li>
+
+</ul>
+
+
+
+<h2>Definition List</h2>
+
+<dl>
+
+<dt>HTML</dt>
+
+<dd>HyperText Markup Language</dd>
+
+
+
+<dt>CSS</dt>
+
+<dd>Cascading Style Sheets</dd>
+
+
+
+<dt>JavaScript</dt>
+
+<dd>Programming language for the web</dd>
+
+</dl>
+
+</body>
+
+</html>
